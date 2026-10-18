@@ -29,7 +29,7 @@
 - cpawctfをLinux環境でAIを活用しながら学習1周終了(2026/10/11)(2026/10/18記)  
   →解き方・知識を紙媒体に書いたもののコピーを後日こちらに掲載予定
 
-- google colabでAIを活用しながら、簡単なデータ分析を行った(2026/10/18実施・記)
+- google colabでPython言語AIを活用しながら、簡単なデータ分析を行った(2026/10/18実施・記)
   →[こちらが今回のファイルです。](https://github.com/nao-naoking/profile/blob/main/Untitled0.ipynb)
   
 ## <今後のToDoリスト>
