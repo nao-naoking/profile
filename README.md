@@ -27,7 +27,7 @@
 - cpawctfをLinux環境でAIを活用しながら学習1周終了(2026/10/11)(2026/10/18記)
   →解き方・知識を紙媒体に書いたもののコピーを後日こちらに掲載予定
 - google colabでAIを活用しながら、簡単なデータ分析を行った。
-  →[こちらが今回のファイルです。]()
+  →[こちらが今回のファイルです。](https://github.com/nao-naoking/profile/blob/main/Untitled0.ipynb)
 ## <今後のToDoリスト>
 - 目標：Webアプリケーション開発 - []ToDo：progeteでSQL、HTML、CSSを学ぶ。その後Webアプリ作成。
 - 目標：Pythonによるプログラミングおよびデータ分析 - []ToDo：progateでPythonを学ぶ。その後身近なデータを分析する。
